@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(237, 253, 220);
+    color:darkslategrey;
+    margin-left: 5%;
+    margin-right:5%;
+    border: .5px solid rgb(57, 82, 57);
+    padding: 20px 20px 20px 20px;
+    font-family: arial;
+  }
+  
+  div {
+    background-color: darkseagreen;
+    color:rgb(253, 244, 231);
+    padding: 20px;
+  }
+  
+  span {
+    color:rgba(146, 82, 3, 0.959);
+  }
