@@ -23,8 +23,6 @@ https://cs50a-module08.celestemaldonad.repl.co/root/home.html
 
 <img width="536" alt="animal-colors" src="https://user-images.githubusercontent.com/69225402/117094043-8f99b380-ad17-11eb-8e84-3bef817c9aa2.png">
 
-<img width="512" alt="animal-video" src="https://user-images.githubusercontent.com/69225402/117094057-958f9480-ad17-11eb-8040-ad2c1085058c.png">
-
 <img width="523" alt="animal-videos" src="https://user-images.githubusercontent.com/69225402/117094061-988a8500-ad17-11eb-82c9-cb1706d09314.png">
 
 
