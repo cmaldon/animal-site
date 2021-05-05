@@ -1,8 +1,13 @@
 # animal-site
 ----
-Web page created in Summer 2020 using HTML5 and CSS3.
+Web page created using HTML5 and CSS3.
 
 -----------------
+
+# Visit Site
+----
+https://cs50a-module08.celestemaldonad.repl.co/root/home.html
+
 
 # Screenshots
 #### Progress images
